@@ -1,0 +1,355 @@
+2025.05.24 19:05:28 INFO  Started: Metals version 1.5.3 in folders '/Users/israellewis/Development/raft-2-hm/raft-2-hm' for client Cursor 1.96.2.
+2025.05.24 19:05:28 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:29 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:29 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:29 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:30 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:05:30 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:34 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:34 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:35 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:05:35 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:46 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:47 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:05:49 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+May 24, 2025 7:05:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.24 19:06:00 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:06:04 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:06:05 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:06:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:06:10 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:06:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+May 24, 2025 7:06:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogEntry.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Main.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Command.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/StateMachine.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Server.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Follower.java. Using fallback presentation compiler.
+2025.05.24 19:06:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:11:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:11:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:11:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:11:24 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:11:25 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:11:25 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:11:44 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:12:20 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:12:21 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:12:22 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:12:22 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:12:22 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogEntry.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Follower.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Main.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Command.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/StateMachine.java. Using fallback presentation compiler.
+2025.05.24 19:12:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:29 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:32 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:35 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:38 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:39 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:43 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:45 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:45 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:47 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:48 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:49 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:49 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:54 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:12:55 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:14 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:17 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:17 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:18 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:18 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:18 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:18 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:13:18 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:18 WARN  Running javac-semanticdb failed for file:///Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Output:
+
+2025.05.24 19:13:19 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:19 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:20 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:13:19 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:20 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:13:20 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:13:19 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:02 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:14:02 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:08 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:14:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:14:41 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:14:41 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Server.java. Using fallback presentation compiler.
+2025.05.24 19:14:54 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:14:54 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:14:54 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:15:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogEntry.java. Using fallback presentation compiler.
+2025.05.24 19:15:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Main.java. Using fallback presentation compiler.
+2025.05.24 19:15:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Follower.java. Using fallback presentation compiler.
+2025.05.24 19:15:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Command.java. Using fallback presentation compiler.
+2025.05.24 19:15:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:15:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:15:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/StateMachine.java. Using fallback presentation compiler.
+2025.05.24 19:16:33 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:16:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:16:36 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:16:36 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:17:43 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:17:43 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Server.java. Using fallback presentation compiler.
+2025.05.24 19:19:01 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:19:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:19:04 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:19:04 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:19:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:19:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:19:06 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:19:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:19:07 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:19:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:19:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:19:11 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:19:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:20:23 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:20:23 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:20:23 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:21:43 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:21:43 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:21:45 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:21:45 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:21:45 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:21:45 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:22:51 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:22:51 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Server.java. Using fallback presentation compiler.
+2025.05.24 19:23:52 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:56 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:56 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:56 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:58 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:23:58 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:59 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:23:59 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:24:00 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:24:00 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:24:00 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:24:00 WARN  Running javac-semanticdb failed for file:///Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Output:
+
+May 24, 2025 7:24:00 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java (full report at: /Users/israellewis/Development/raft-2-hm/raft-2-hm/.metals/.reports/metals-full/2025-05-24/r_qdox-error_19-24-00-909.md)
+2025.05.24 19:24:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:24:00 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:24:02 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:24:02 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:24:36 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:24:36 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:24:37 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:25:10 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Command.java. Using fallback presentation compiler.
+2025.05.24 19:25:17 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:25:18 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:25:17 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:25:18 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:25:30 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:25:30 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:25:30 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:25:30 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:25:30 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:25:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:25:39 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:25:40 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java
+2025.05.24 19:25:39 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:25:40 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java
+2025.05.24 19:25:59 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:25:59 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:26:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:26:11 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:26:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:26:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:26:16 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:26:18 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:26:25 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:26:25 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:35 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:36 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:38 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:39 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:42 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:42 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:45 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:45 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:46 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:46 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:49 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:52 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:52 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:26:52 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:54 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:54 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:26:57 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:26:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:26:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogEntry.java. Using fallback presentation compiler.
+2025.05.24 19:26:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Follower.java. Using fallback presentation compiler.
+2025.05.24 19:27:04 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java
+2025.05.24 19:27:04 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:27:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:27:07 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java
+2025.05.24 19:27:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:27:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:27:11 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:27:12 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:27:13 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:27:13 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:27:15 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:27:15 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Server.java. Using fallback presentation compiler.
+2025.05.24 19:27:15 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:27:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:27:34 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:27:50 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java
+2025.05.24 19:27:50 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:28:02 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:28:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:28:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:28:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:28:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:28:10 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Command.java. Using fallback presentation compiler.
+2025.05.24 19:28:10 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:28:13 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java
+2025.05.24 19:28:13 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.24 19:28:14 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:28:14 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:28:16 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:28:49 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:28:49 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:28:52 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:29:05 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:29:05 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:29:06 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:29:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:29:05 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:29:06 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:29:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:29:19 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:29:19 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:29:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:29:27 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:29:27 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:29:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogEntry.java. Using fallback presentation compiler.
+2025.05.24 19:29:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Follower.java. Using fallback presentation compiler.
+2025.05.24 19:30:10 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:30:10 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:30:10 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:30:15 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:30:18 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:30:18 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:30:20 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:30:20 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:30 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:32 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:35 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:51 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:30:51 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:53 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:58 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:30:58 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:31:00 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:31:01 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:31:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:03 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:03 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:04 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Command.java. Using fallback presentation compiler.
+2025.05.24 19:31:04 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/FollowerTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:32 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:32 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:33 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java
+2025.05.24 19:31:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:31:34 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:31:36 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:31:36 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:38 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:38 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:40 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+May 24, 2025 7:31:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 593
+2025.05.24 19:31:41 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java
+2025.05.24 19:31:41 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:31:43 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.24 19:31:43 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:44 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:46 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Server.java. Using fallback presentation compiler.
+2025.05.24 19:31:46 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.24 19:31:51 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:31:51 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:31:51 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:31:54 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:31:57 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:31:59 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:31:59 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:00 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:04 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:06 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:07 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:08 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:12 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:13 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:15 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:15 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:18 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:19 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:32:46 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java
+2025.05.24 19:32:46 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:32:47 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java
+2025.05.24 19:32:47 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.24 19:52:02 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/RaftMessage.java. Using fallback presentation compiler.
+2025.05.24 19:52:33 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Command.java. Using fallback presentation compiler.
+2025.05.25 10:01:59 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/Leader.java. Using fallback presentation compiler.
+2025.05.25 10:01:59 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java
+2025.05.25 10:01:59 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/test/java/org/example/raft/LeaderTest.java. Using fallback presentation compiler.
+2025.05.25 10:02:01 WARN  no build target for: /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java
+2025.05.25 10:02:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.25 10:02:01 INFO  no build target found for /Users/israellewis/Development/raft-2-hm/raft-2-hm/src/main/java/org/example/raft/LogPersistence.java. Using fallback presentation compiler.
+2025.05.25 10:02:03 INFO  Shutting down server
+2025.05.25 10:02:03 INFO  shutting down Metals
+2025.05.25 10:02:03 INFO  Exiting server
+2025.05.25 10:02:03 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1589)
+
