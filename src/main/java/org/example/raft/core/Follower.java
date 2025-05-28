@@ -77,11 +77,11 @@ public class Follower extends Server {
 
     private Behavior<RaftMessage> handleClientCommand(RaftMessage.ClientCommand msg) {
         if (leader != null) {
-            // Forward client command to leader
+
             leader.tell(msg);
             getContext().getLog().info("Forwarded client command to leader: {}", msg.command());
         } else {
-            // No leader, reject command
+
             msg.replyTo().tell(new RaftMessage.ClientResponse(false, "No leader available"));
             getContext().getLog().info("Rejected client command (no leader): {}", msg.command());
         }

@@ -31,7 +31,8 @@ When you run the program:
 ## Known Issues
 
 1. I am not stopping the servers when it is running to stimulate failures and recovery.
-     I have a test for that. 
+     I have a test for that.
+2. Can not get a leader what the leader dies.
 
 
 ## External Sources Consulted

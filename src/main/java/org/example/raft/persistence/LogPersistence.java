@@ -56,7 +56,7 @@ public class LogPersistence {
                 String[] parts = line.split("\\|");
                 if (parts.length == 2) {
                     int term = Integer.parseInt(parts[0].substring(5));
-                    String command = parts[1].substring(8); // Remove "command="
+                    String command = parts[1].substring(8); 
                     entries.add(new LogEntry(term, new Command(command)));
                 }
             }

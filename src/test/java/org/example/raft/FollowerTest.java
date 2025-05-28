@@ -129,7 +129,7 @@ class FollowerTest {
 
     @Test
     void shouldRecoverFromFailure() {
-        // Create initial log entries
+        // Creating initial log entries
         LogEntry entry1 = new LogEntry(1, new Command("key1=value1"));
         LogEntry entry2 = new LogEntry(1, new Command("key2=value2"));
 
@@ -138,24 +138,24 @@ class FollowerTest {
         RaftMessage.AppendEntriesResponse response = probe.expectMessageClass(RaftMessage.AppendEntriesResponse.class);
         assertTrue(response.success());
 
-        // Commit the entries
+        // Committing the entries
         follower.tell(new RaftMessage.AppendEntries(1, probe.getRef(), 1, 1, List.of(), 1));
         response = probe.expectMessageClass(RaftMessage.AppendEntriesResponse.class);
         assertTrue(response.success());
 
-        // Verify entries are in log
+        // Verifying entries are in log
         follower.tell(new RaftMessage.GetLog(probe.getRef()));
         RaftMessage.GetLogResponse logResponse = probe.expectMessageClass(RaftMessage.GetLogResponse.class);
         assertEquals(2, logResponse.log().size());
         assertEquals(entry1, logResponse.log().get(0));
         assertEquals(entry2, logResponse.log().get(1));
 
-        // Verify state machine has the values
+        // Verifying state machine has the values
         follower.tell(new RaftMessage.GetState("key1", probe.getRef()));
         RaftMessage.GetStateResponse stateResponse = probe.expectMessageClass(RaftMessage.GetStateResponse.class);
         assertEquals("value1", stateResponse.value());
 
-        // Simulate follower failure by creating a new follower instance
+
         testKit.shutdownTestKit();
         testKit = ActorTestKit.create();
         probe = testKit.createTestProbe();
@@ -166,7 +166,7 @@ class FollowerTest {
         follower.tell(new RaftMessage.AppendEntries(1, probe.getRef(), -1, 0, List.of(entry1, entry2), 2));
         probe.expectMessageClass(RaftMessage.AppendEntriesResponse.class);
 
-        // Verify log is recovered
+        
         follower.tell(new RaftMessage.GetLog(probe.getRef()));
         logResponse = probe.expectMessageClass(RaftMessage.GetLogResponse.class);
         assertEquals(2, logResponse.log().size());
